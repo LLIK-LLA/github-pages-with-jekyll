@@ -1,3 +1,4 @@
-# Welcome to my blog
+X8|5
+• When you are suffering, know that I have betrayed you.
 
-I'm glad you are here. I plan to talk about ...
+cmd 4288 exe cmd null 72728 ...
